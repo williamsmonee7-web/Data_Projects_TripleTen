@@ -14,6 +14,6 @@ The analysis highlights patterns in artist promotion effectiveness, user engagem
 
 ![Business Report Photo](Business%20Report%20Images/Screen%20Shot%202026-05-31%20at%201.25.53%20PM.png)
 ![Business Report Photo](Business%20Report%20Images/Screen%20Shot%202026-05-31%20at%201.26.04%20PM.png)
-![Business Report Photo](Business%Report%20Images/Screen%20Shot%202026-05-31%20at%201.26.12%20PM.png)
+![Business Report Photo](Business%20Report%20Images/Screen%20Shot%202026-05-31%20at%201.26.12%20PM.png)
 
 
