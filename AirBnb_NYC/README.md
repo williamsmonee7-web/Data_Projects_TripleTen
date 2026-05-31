@@ -14,3 +14,9 @@ I used spreadsheet-based analysis techniques including data cleaning, pivot tabl
 
 **📈 What I found (summary of findings & insights)**
 The analysis identified the Lower East Side, Hell's Kitchen, and Harlem as some of Manhattan's most attractive Airbnb markets, while one-bedroom units emerged as the most popular property type overall, followed by two-bedroom units and studio apartments. Revenue analysis revealed several high-performing listings generating over $20,000 in estimated monthly revenue, highlighting significant earning potential within Manhattan's most desirable vacation rental markets.
+
+![AirBnB NYC](New%20York%20Airbnb%20Images/Screen%20Shot%202026-05-31%20at%202.33.14%20PM.png)
+![AirBnB NYC](New%20York%20Airbnb%20Images/Screen%20Shot%202026-05-31%20at%202.33.26%20PM.png)
+![AirBnB NYC](New%20York%20Airbnb%20Images/Screen%20Shot%202026-05-31%20at%202.33.35%20PM.png)
+![AirBnB NYC](New%20York%20Airbnb%20Images/Screen%20Shot%202026-05-31%20at%202.34.16%20PM.png)
+![AirBnB NYC](New%20York%20Airbnb%20Images/Screen%20Shot%202026-05-31%20at%202.34.26%20PM.png)
