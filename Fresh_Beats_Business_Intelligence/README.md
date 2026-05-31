@@ -12,8 +12,4 @@ The analysis was completed by reviewing provided datasets, pivot tables, and vis
 ## **📈 What was found (key insights & findings)**
 The analysis highlights patterns in artist promotion effectiveness, user engagement behavior, and genre-based listening trends. Certain promotional strategies were found to generate higher visibility and engagement for artists, while user conversion patterns showed opportunities to improve the transition from free users to paid subscribers. Additionally, genre preferences revealed clear areas where targeted recommendations could better support emerging artists and improve overall platform engagement.
 
-<img width="775" height="464" alt="Screen Shot 2026-05-31 at 1 25 53 PM" src="https://github.com/user-attachments/assets/a5ccba5a-604a-4f69-bd13-fccee63757fa" />
 
-<img width="770" height="468" alt="Screen Shot 2026-05-31 at 1 26 04 PM" src="https://github.com/user-attachments/assets/0be2e34c-a156-4b0e-a717-57fe0546535a" />
-
-<img width="768" height="211" alt="Screen Shot 2026-05-31 at 1 26 12 PM" src="https://github.com/user-attachments/assets/988ca99b-e65c-4299-9156-4b89c32a894b" />
