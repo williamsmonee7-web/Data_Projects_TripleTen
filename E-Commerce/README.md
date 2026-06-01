@@ -1,5 +1,7 @@
 # **Tracking User Journeys: Funnel & Cohort Insights**
 
+[See Me Before You Read](https://docs.google.com/spreadsheets/d/1gMkVu6P0FJS_TompslZ6nNd8ahWCT0KaIFfEHUl-qPE/edit?usp=sharing)
+
 🛒 What the project is (features & functionality)
 
 This project analyzes e-commerce user activity data to measure website conversion performance and customer retention. Using conversion funnel analysis and cohort-based retention tracking, the project transforms raw event logs into actionable business metrics that help evaluate customer behavior throughout the purchasing journey.
