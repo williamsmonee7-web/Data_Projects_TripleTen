@@ -16,8 +16,6 @@ I used advanced spreadsheet techniques, pivot tables, cohort analysis, and sprea
 
 The analysis revealed strong initial engagement, with 29% of users progressing from product views to shopping carts, but a significant drop-off occurred before purchase, resulting in only a 10% overall conversion rate. Cohort analysis also showed customer retention declining sharply after the first month, suggesting opportunities to improve customer loyalty, product variety, website experience, and marketing efforts to increase both conversions and long-term retention.
 
-
-![E Commerce](Screen%20Shot%202026-05-31%20at%204.49.43%20PM.png)
-![E Commerce](Screen%20Shot%202026-05-31%20at%204.49.55%20PM.png)
-![E Commerce](Screen%20Shot%202026-05-31%20at%204.50.10%20PM.png)
-![E Commerce](Screen%20Shot%202026-05-31%20at%204.50.42%20PM.png)
+![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.49.43%20PM.png)
+![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.49.55%20PM.png)
+![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.50.42%20PM.png)
