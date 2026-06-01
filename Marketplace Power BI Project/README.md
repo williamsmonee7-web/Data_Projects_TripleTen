@@ -1,5 +1,7 @@
 # **Behind Shopify App Success: A Marketplace Deep Dive**
 
+[See Me Before You Read. Side note: I could not insert the actual file because it is too large, and I work primarily on a Mac OS.](https://drive.google.com/drive/folders/1rYkJpHFstA_iFftqYP-PNwgbNnEgXJum?usp=sharing)
+
 📊 What the project is (features & functionality)
 
 This project analyzes mobile application review data using interactive Power BI dashboards to explore app performance, customer feedback, review activity, and developer engagement. The dashboards examine review volumes, app ratings, helpful review metrics, developer response behavior, and developer-level performance to uncover trends in user satisfaction and app engagement. The analysis provides a comprehensive view of how users interact with apps and how developers respond to customer feedback.
