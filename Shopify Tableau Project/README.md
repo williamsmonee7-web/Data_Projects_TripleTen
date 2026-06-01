@@ -16,3 +16,9 @@ The project was developed using Tableau to visualize and analyze business perfor
 📈 What was found (key insights & findings)
 
 The analysis revealed that product categories such as Copiers, Accessories, and Phones consistently generated strong profits, while categories including Binders, Tables, and Bookcases contributed significant losses. Advertising opportunities in Indiana (October), Vermont (November), and Washington (March) demonstrated the highest potential return on investment. The project also identified specific products and customers with unusually high return rates, highlighting areas for further investigation. Overall, the findings showed that the most profitable business segments combine strong earnings with low return rates, providing a clear framework for improving profitability and operational performance.
+
+![Tableau](Tableau%20Project%20Photots/Screen%20Shot%202026-05-31%20at%206.31.50%20PM.png)
+![Tableau](Tableau%20Project%20Photots/Screen%20Shot%202026-05-31%20at%206.33.31%20PM.png)
+![Tableau](Tableau%20Project%20Photots/Screen%20Shot%202026-05-31%20at%206.33.38%20PM.png)
+![Tableau](Tableau%20Project%20Photots/Screen%20Shot%202026-05-31%20at%206.34.00%20PM.png)
+![Tableau](Tableau%20Project%20Photots/Screen%20Shot%202026-05-31%20at%206.34.18%20PM.png)
