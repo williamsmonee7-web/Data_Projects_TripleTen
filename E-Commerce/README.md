@@ -20,3 +20,5 @@ The analysis revealed strong initial engagement, with 29% of users progressing f
 ![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.49.55%20PM.png)
 ![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.50.10%20PM.png)
 ![E Commerce](E%20Commerce%20Photos/Screen%20Shot%202026-05-31%20at%204.50.42%20PM.png)
+
+To see more, look into the "E Commerce Photos" folder.
