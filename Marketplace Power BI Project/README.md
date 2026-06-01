@@ -1,8 +1,8 @@
 # **Behind Shopify App Success: A Marketplace Deep Dive**
 
-[See Me Before You Read.](https://drive.google.com/drive/folders/1rYkJpHFstA_iFftqYP-PNwgbNnEgXJum?usp=sharing)
+[See Me Before You Read](https://drive.google.com/drive/folders/1rYkJpHFstA_iFftqYP-PNwgbNnEgXJum?usp=sharing)
 
-> **Brief Side Note to Any Potential Employer:** I could not insert the actual file because it is too large, and I work primarily on a Mac OS.
+> **Brief Side Note to Any Potential Employer:** I could not insert the actual file because it is too large, and I work primarily on a Mac OS. As a result, this link leads to screenshots of the project in lieu of the project itself. 
 
 📊 What the project is (features & functionality)
 
