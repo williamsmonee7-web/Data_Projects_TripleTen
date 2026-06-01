@@ -1,4 +1,4 @@
-# **Fresh Beats Project**
+# **Fresh Beats Business Insights Report**
 
 ## **📊 What the project is (features & functionality)**
 This project is a business intelligence report for Fresh Beats, an online music streaming and artist promotion platform. It uses pre-built datasets and visualizations to analyze user engagement, artist promotion performance, and genre trends. The final output is a stakeholder-ready report that connects data insights to business decisions around user growth, subscription conversion, and artist visibility.
