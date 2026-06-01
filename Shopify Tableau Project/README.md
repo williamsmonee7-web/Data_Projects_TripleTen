@@ -1,5 +1,6 @@
-
 # **Decoding Shopify App Success: Ratings, Reviews, and Developer Impact**
+
+[See Me Before You Read](https://public.tableau.com/views/Sprint4ProjectTableau/SubcategoryRegion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📊 What the project is (features & functionality)
 
