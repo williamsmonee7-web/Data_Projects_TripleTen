@@ -1,5 +1,7 @@
 # **New York City/Manhattan Airbnb Spreadsheet Project**
 
+[See Me Before You Read]([./Project_1/]([https://docs.google.com/spreadsheets/d/1l7IVzPvKrPgDyoI7XUzQiODvwOQq_5lw0SuD27yTeao/edit?usp=sharing)](https://drive.google.com/drive/folders/1OAij7P8GoGX4Oj1e3B_0QZ6xOwpAFr0q?usp=sharing))
+
 **🏙️ What the project is (features & functionality)**
 
 This project analyzes Manhattan Airbnb rental data to identify the most attractive neighborhoods for vacation rental investments, determine the most popular property sizes, and estimate revenue potential for top-performing listings. The analysis includes neighborhood comparisons, property size preferences, and revenue modeling to support data-driven investment decisions.
