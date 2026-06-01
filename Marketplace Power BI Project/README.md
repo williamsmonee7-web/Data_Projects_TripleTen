@@ -15,3 +15,7 @@ The project was developed using Power BI to visualize and analyze application re
 📈 What was found (key insights & findings)
 
 The analysis revealed a dataset containing approximately 7,000 unique applications and significant variation in review activity across the platform. Review volume fluctuated over time, with several periods generating substantially higher engagement than others. The relationship between review counts and ratings showed that highly reviewed applications generally maintained strong ratings, though notable outliers existed. Developer engagement metrics demonstrated differences in response behavior across organizations, with some developers achieving higher response rates and generating more helpful user feedback than others. Overall, the findings highlight the importance of active developer participation and customer engagement in maintaining positive app experiences.
+![Power BI](Power%20BI%20Screen%20Shots/Question%201.3.png)
+![Power BI](Power%20BI%20Screen%20Shots/Question%203.1.png)
+![Power BI](Power%20BI%20Screen%20Shots/Question%201.3.png)
+
