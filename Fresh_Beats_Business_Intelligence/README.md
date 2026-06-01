@@ -1,6 +1,6 @@
 # **Fresh Beats Business Insights Report**
 
-[See Me Before You Read]([./Project_1/](https://docs.google.com/spreadsheets/d/1l7IVzPvKrPgDyoI7XUzQiODvwOQq_5lw0SuD27yTeao/edit?usp=sharing))
+[See Me Before You Read](https://docs.google.com/spreadsheets/d/1l7IVzPvKrPgDyoI7XUzQiODvwOQq_5lw0SuD27yTeao/edit?usp=sharing)
 
 📊 What the project is (features & functionality)
 
