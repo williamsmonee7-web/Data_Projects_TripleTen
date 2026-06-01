@@ -1,6 +1,6 @@
 # **New York City/Manhattan Airbnb Spreadsheet Project**
 
-[See Me Before You Read](https://docs.google.com/spreadsheets/d/1l7IVzPvKrPgDyoI7XUzQiODvwOQq_5lw0SuD27yTeao/edit?usp=sharing)
+[See Me Before You Read](https://docs.google.com/spreadsheets/d/1FaT6S-dsqhWqssG-JCvFOwIuPKJDUTgTva0uZfL89bk/edit?usp=sharing)
 
 **🏙️ What the project is (features & functionality)**
 
